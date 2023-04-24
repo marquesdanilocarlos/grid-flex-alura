@@ -3,7 +3,13 @@
     justify-content: space-evenly;
     align-items: center;
     flex-wrap: wrap;
-    column-gap: 4.6rem;
+    column-gap: 2rem;
+}
+
+.categorias__lista {
+    display: flex;
+    flex-direction: column;
+    row-gap: 0.5rem;
 }
 
 
